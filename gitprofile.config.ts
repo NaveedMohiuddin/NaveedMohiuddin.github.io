@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['NaveedMohiuddin/Upify', 'NaveedMohiuddin/shortnt', 'NaveedMohiuddin/social-media-dapp','NaveedMohiuddin/Battle-Script'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['NaveedMohiuddin/Upify', 'NaveedMohiuddin/shortnt', 'NaveedMohiuddin/social-media-dapp','NaveedMohiuddin/Battle-Script','NaveedMohiuddin/ML_Project1'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -240,7 +240,7 @@ const CONFIG = {
   //     rel="noreferrer"
   //   >GitProfile</a> and ❤️`,
 
-  enablePWA: true,
+  // enablePWA: true,
 };
 
 export default CONFIG;
