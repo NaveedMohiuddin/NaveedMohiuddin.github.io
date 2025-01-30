@@ -16,7 +16,7 @@ const CONFIG = {
       header: 'Github Projects',
       mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
-        sortBy: 'stars', // Sort projects by 'stars' or 'updated'
+        sortBy: 'updated', // Sort projects by 'stars' or 'updated'
         limit: 5, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['NaveedMohiuddin/Upify', 'NaveedMohiuddin/shortnt', 'NaveedMohiuddin/social-media-dapp','NaveedMohiuddin/Battle-Script','NaveedMohiuddin/ML_Project1'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['NaveedMohiuddin/Upify', 'NaveedMohiuddin/shortnt','NaveedMohiuddin/MobileApp1','NaveedMohiuddin/MobileApp2','NaveedMohiuddin/MobileApp-3','NaveedMohiuddin/MobileApp-4','NaveedMohiuddin/MobileApp-5','NaveedMohiuddin/ML_Project1','NaveedMohiuddin/ML_Project2', 'NaveedMohiuddin/social-media-dapp','NaveedMohiuddin/Battle-Script'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -53,7 +53,7 @@ const CONFIG = {
   seo: {
     title: 'Portfolio of Naveed Mohiuddin',
     description: '',
-    imageURL: '',
+    imageURL: '/Linkedin_profile.jpg',
   },
   social: {
     linkedin: 'naveed-mohiuddin-852021196',
@@ -90,18 +90,19 @@ const CONFIG = {
     'Git',
     'Docker',
     'CSS',
+    'git',
     'Dart',
     'Flutter',
     'MongoDB',
     'Snowflake',
-    'Azure Data Factory',
+    'github',
     'VS Code',
     'Azure',
   ],
   experiences: [
     {
-      company: 'GEICO (Contracted through Applied Information Sciences )',
-      position: 'Azure Data Engineer',
+      company: 'Applied Information Sciences',
+      position: 'Software Engineer',
       from: 'April 2022',
       to: 'July 2023',
       companyLink: 'https://www.linkedin.com/company/geico/',
