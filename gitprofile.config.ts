@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Upify is a web application that keeps users informed about the latest internships, jobs, webinars, and courses by sending timely email notifications. As the project leader, I guided a team of three in developing this platform, which utilizes React.js for the front end and Node.js, Express, and MongoDB for the back end. Upify streamlines access to valuable career opportunities, ensuring registered users never miss important updates.',
           imageUrl:'/upify.png',
-          link: 'https://example.com',
+          link: 'https://github.com/NaveedMohiuddin/Upify',
         },
       ],
     },
@@ -79,7 +79,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      '/src/assets/Naveed_Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '/Naveed_Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Java',
