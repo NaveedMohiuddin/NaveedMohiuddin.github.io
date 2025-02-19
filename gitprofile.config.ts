@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['NaveedMohiuddin/Upify', 'NaveedMohiuddin/shortnt','NaveedMohiuddin/MobileApp1','NaveedMohiuddin/MobileApp2','NaveedMohiuddin/MobileApp-3','NaveedMohiuddin/MobileApp-4','NaveedMohiuddin/MobileApp-5','NaveedMohiuddin/ML_Project1','NaveedMohiuddin/ML_Project2', 'NaveedMohiuddin/social-media-dapp','NaveedMohiuddin/Battle-Script'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['NaveedMohiuddin/Upify', 'NaveedMohiuddin/shortnt','NaveedMohiuddin/ProfilePage_flutter','NaveedMohiuddin/YahtzeeGame_flutter','NaveedMohiuddin/FlashCardsApp_flutter','NaveedMohiuddin/BattleShips_flutter','NaveedMohiuddin/WeatherApp_flutter','NaveedMohiuddin/ML_Project1','NaveedMohiuddin/ML_Project2'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
