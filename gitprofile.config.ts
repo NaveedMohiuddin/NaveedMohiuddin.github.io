@@ -117,17 +117,18 @@ const CONFIG = {
   ],
   certifications: [
     {
+      name: 'AWS Certified: Solutions Architect Associate',
+      body: 'Amazon Web Services',
+      year: 'July 2025',
+      link: 'https://www.credly.com/badges/5d45af7f-a5fa-4328-95db-33a65c90b5fb/public_url',
+    },
+    {
       name: 'Microsoft Certified: Azure Fundamentals',
       body: 'Microsoft',
       year: 'August 2022',
       link: 'https://www.credly.com/badges/71031c3f-ac61-49a3-885b-1d2cd3624135/linked_in_profile',
     },
-    {
-      name: 'AWS Certified: Solutions Architect Associate',
-      body: 'AWS',
-      year: 'july 2025',
-      link: 'https://www.credly.com/badges/5d45af7f-a5fa-4328-95db-33a65c90b5fb/public_url',
-    },
+    
   ],
   educations: [
     {
