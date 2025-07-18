@@ -16,7 +16,7 @@ const CONFIG = {
       header: 'Github Projects',
       mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
-        sortBy: 'updated', // Sort projects by 'stars' or 'updated'
+        sortBy: 'stars', // Sort projects by 'stars' or 'updated'
         limit: 10, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['NaveedMohiuddin/Upify', 'NaveedMohiuddin/shortnt','NaveedMohiuddin/ProfilePage_flutter','NaveedMohiuddin/YahtzeeGame_flutter','NaveedMohiuddin/FlashCardsApp_flutter','NaveedMohiuddin/BattleShips_flutter','NaveedMohiuddin/WeatherApp_flutter','NaveedMohiuddin/ML_Project1','NaveedMohiuddin/ML_Project2'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['NaveedMohiuddin/Multi-AZ-Disaster-Recovery','NaveedMohiuddin/bigdata-spark-dataproc','NaveedMohiuddin/real-time-stream-processing-kafka-spark-gcp','NaveedMohiuddin/Upify', 'NaveedMohiuddin/shortnt','NaveedMohiuddin/ProfilePage_flutter','NaveedMohiuddin/YahtzeeGame_flutter','NaveedMohiuddin/FlashCardsApp_flutter','NaveedMohiuddin/BattleShips_flutter','NaveedMohiuddin/WeatherApp_flutter','NaveedMohiuddin/ML_Project1','NaveedMohiuddin/ML_Project2'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -83,6 +83,11 @@ const CONFIG = {
   },
   skills: [
     'Java',
+    'AWS',
+    'EC2',
+    'S3',
+    'ELB',
+    'VPC',
     'Python',
     'React.js',
     'Node.js',
@@ -179,7 +184,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'emerald',
+    defaultTheme: 'sunset',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
